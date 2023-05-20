@@ -1,0 +1,17 @@
+# bool 
+
+'''True  = > 1
+False =>  0
+'''
+#usecase True (1) False (0)
+
+
+#name = input("Enter Your Name")
+
+mahbub = True
+
+print(mahbub)
+
+
+
+
