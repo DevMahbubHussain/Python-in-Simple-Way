@@ -1,1 +1,1 @@
-# Pythin-in-Simple-Way
+# Python-in-Simple-Way
